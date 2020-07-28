@@ -1,183 +1,175 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Bitcoin",
+      "link": "https://www.youtube.com/watch?v=1WQYLvbGFC0",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Conheça mais sobre o Bitcoin",
+        "url": "https://www.youtube.com/watch?v=1WQYLvbGFC0"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Saiba o que é Bitcoin",
+          "url": "https://www.youtube.com/watch?v=1WQYLvbGFC0"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Fernando Ulrich - Minha história com o bitcoin",
+          "url": "https://www.youtube.com/watch?v=0wGtn02n-VA&t=167s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Daniel Fraga - Bitcoin é melhor que dólar",
+          "url": "https://www.youtube.com/watch?v=znwZ6M0jW-o"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Fabio Akita / Desmistificando Bitcoin e Blockchains para Developers",
+          "url": "https://www.youtube.com/watch?v=RD4ARn9bSoc"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "O bitcoin é um investimento?",
+          "url": "https://www.youtube.com/watch?v=wzI7n5knqAQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "ANCAP.SU nos Bitcoinheiros (Parte 1/2)",
+          "url": "https://www.youtube.com/watch?v=jWUA56O9X7Y"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "ANCAP.SU e o Bitcoin (Parte 2/2)",
+          "url": "https://www.youtube.com/watch?v=0ps0KEcqLAg"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Conheça a história da pizza mais cara do mundo! Bitcoin Pizza Day",
+          "url": "https://www.youtube.com/watch?v=zUdye92c0fk"
+        },
+        {
+          "titulo": "5 DICAS DE OURO para quem investe ou está pensando em investir no Bitcoin!",
+          "url": "https://www.youtube.com/watch?v=VJ5izztshp4&list=PLHt82oy8ME502eeMr9p1L2_6B4PzRs4a0"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Blockchain",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Saiba mais sobre esta tecnologia",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Criptomoedas hoje é como era a internet na década de 90 | Entrevista Completa - Fabio Akita",
+          "url": "https://www.youtube.com/watch?v=VhAts64ASPI"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Fábio Akita - Entendendo Blockchain em São Francisco",
+          "url": "https://www.youtube.com/watch?v=M0PgfU4qUMM"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Por que a Coréia do Sul é tão grande em Criptomoedas?",
+          "url": "https://www.youtube.com/watch?v=BEaVdiTiiH4&list=PLdsnXVqbHDUd6-be_WU0FzUgix3tRjAH4"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Blockchain: o que é? A tecnologia além do bitcoin (btc) e das criptomoedas",
+          "url": "https://www.youtube.com/watch?v=x7WzYIC4-MU"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Ethereum",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Saiba mais sobre esta criptomoeda",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Saiba o que é Ethereum",
+          "url": "https://www.youtube.com/watch?v=N4WtlP6AQ38"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Entenda: o que é Ethereum?",
+          "url": "https://www.youtube.com/watch?v=VqjopZhJtbc"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Guia Basico da Ethereum | Mestres do Bitcoin",
+          "url": "https://www.youtube.com/watch?v=Tdc_JNlj9dw"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "O que é Ethereum?",
+          "url": "https://www.youtube.com/watch?v=5rh1THmpiOI"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Criptomoedas",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Investir em Criptomoedas ainda vale a pena?",
+          "url": "https://www.youtube.com/watch?v=XdCT_nnBUPM"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Binance Descentralizada e o retorno aos fundamentos das Criptomoedas",
+          "url": "https://www.youtube.com/watch?v=5BL2sS5DKaY"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Fazendo compras no Japão com Bitcoin",
+          "url": "https://www.youtube.com/watch?v=8USYYxSgVtg"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "BITCOIN - COMO GUARDAR SUAS MOEDAS DE FORMA SEGURA? | RODRIGO MIRANDA",
+          "url": "https://www.youtube.com/watch?v=rl_G9EACHyM"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Spoticoin",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Ouça nossa playlist",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "The Bitcoin Song (Parody of Jay-Z - Empire State of Mind)",
+          "url": "https://www.youtube.com/watch?v=7gfBP8kPzRA"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "BLOCKCHAINIAN RHAPSODY - “Bohemian Rhapsody-Queen” Crypto Parody",
+          "url": "https://www.youtube.com/watch?v=EzXM2x6rQhs"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "CARDANO : “Rosanna - TOTO” Crypto Parody",
+          "url": "https://www.youtube.com/watch?v=X2EvYtYQXck"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "More Videos",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Here's more about what cryptocurrency",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "What is The History of Bitcoin: Super Easy Explanation",
+          "url": "https://www.youtube.com/watch?v=khtCG_15bsY"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "What is Cryptocurrency? A Simple Explanation",
+          "url": "https://www.youtube.com/watch?v=6Gu2QMTAkEU"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Cryptocurrency Explained | What is Cryptocurrency? | Cryptocurrency Explained Simply | Simplilearn",
+          "url": "https://www.youtube.com/watch?v=8NgVGnX4KOw"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Simply Explained - Blockchain",
+          "url": "https://www.youtube.com/watch?v=SSo_EIwHSd4"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "TED Talks: The Blockchain Explained Simply",
+          "url": "https://www.youtube.com/watch?v=KP_hGPQVLpA"
         }
       ]
     }
