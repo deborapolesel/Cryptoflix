@@ -1,12 +1,12 @@
-# Aluraflix
+# Cryptoflix
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
+## Descrição
 
-<p align="center">
-  <img alt="Logo do projeto" width="150px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
-</p>
+Primeira página web criada com React sobre criptomoedas. Este projeto foi desenvolvido baseado na plataforma do Netflix.
 
-> Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
+<img alt="Detalhes do projeto" src="https://github.com/deborapolesel/Cryptoflix/blob/master/src/assets/img/details.png" />
+
+> Projeto construido durante a Imersão React da Alura.
 
 
 ## Como rodar o projeto?
@@ -23,3 +23,5 @@ Da uma olhada na aba [Releases](https://github.com/omariosouto/pokedex/releases)
 
 ## License/Licença do Projeto
 [MIT License](./LICENSE) © [Alura](http://alura.com.br/)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
+
