@@ -23,8 +23,6 @@ npm install
 npm start
 ```
 
-## History
-Da uma olhada na aba [Releases](https://github.com/omariosouto/pokedex/releases) pra acompanhar as alterações feitas no projeto.
 
 ## License/Licença do Projeto
 [MIT License](./LICENSE) © [Alura](http://alura.com.br/)

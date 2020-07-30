@@ -6,7 +6,7 @@
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Conheça mais sobre o Bitcoin",
-        "url": "https://www.youtube.com/watch?v=1WQYLvbGFC0"
+        "url": "https://foxbit.com.br/o-que-e-bitcoin/"
       },
       "videos": [
         {
@@ -52,7 +52,7 @@
       "cor": "#00C86F",
       "link_extra": {
         "text": "Saiba mais sobre esta tecnologia",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "url": "https://foxbit.com.br/o-que-e-blockchain/"
       },
       "videos": [
         {
@@ -78,7 +78,7 @@
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Saiba mais sobre esta criptomoeda",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "url": "https://foxbit.com.br/o-que-e-ethereum/"
       },
       "videos": [
         {
@@ -124,10 +124,6 @@
     {
       "titulo": "Spoticoin",
       "cor": "red",
-      "link_extra": {
-        "text": "Ouça nossa playlist",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
           "titulo": "The Bitcoin Song (Parody of Jay-Z - Empire State of Mind)",
@@ -146,10 +142,6 @@
     {
       "titulo": "More Videos",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Here's more about what cryptocurrency",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
           "titulo": "What is The History of Bitcoin: Super Easy Explanation",
