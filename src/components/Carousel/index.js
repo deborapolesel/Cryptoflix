@@ -1,5 +1,6 @@
 import React from 'react';
-import { VideoCardGroupContainer, VideoCardList, Title, ExtraLink } from './styles';
+import { VideoCardGroupContainer, Title, ExtraLink } from './styles';
+import './scrollBar.css';
 import VideoCard from './components/VideoCard';
 
 function VideoCardGroup({
@@ -13,7 +14,7 @@ function VideoCardGroup({
   return (
     <VideoCardGroupContainer>
       {categoryTitle && (
-        <>
+        <div style={{padding: '0 5%'}}>
           <Title style={{ backgroundColor: categoryColor || 'red' }}>
             {categoryTitle}
           </Title>
@@ -22,9 +23,9 @@ function VideoCardGroup({
               {categoryExtraLink.text}  
             </ExtraLink>
           }
-        </>
+        </div>
       )}
-      <VideoCardList>
+      <div className="card-list">
         {videos.map((video, index) => {
           if (ignoreFirstVideo && index === 0) {
             return null;
@@ -40,7 +41,7 @@ function VideoCardGroup({
             </li>
           );
         })}
-      </VideoCardList>
+      </div>
     </VideoCardGroupContainer>
   );
 }
