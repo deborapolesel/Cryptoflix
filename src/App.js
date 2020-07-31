@@ -5,41 +5,31 @@ import BannerMain from './components/BannerMain';
 import Carousel from './components/Carousel';
 import Footer from './components/Footer';
 
+import './index.css';
+
 function App() {
+  const { categorias } = dadosIniciais;
   return (
-    <div style={{ background: "#141414" }}>
+    <div className="App">
       <Menu />
 
       <BannerMain
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
-        url={dadosIniciais.categorias[0].videos[0].url}
+        videoTitle={categorias[0].videos[0].titulo}
+        url={categorias[0].videos[0].url}
         videoDescription={"Uma criptomoeda é um meio de troca, podendo ser centralizado ou descentralizado que se utiliza da tecnologia de blockchain e da criptografia para assegurar a validade das transações e a criação de novas unidades da moeda."}
       />
+      <div className="Carousel">
+        {
+          categorias.map((categoria) => (
+            <Carousel
+              key={categoria.titulo}
+              ignoreFirstVideo
+              category={categoria}
+            />
+          ))
+        }
+      </div>
 
-      <Carousel
-        ignoreFirstVideo
-        category={dadosIniciais.categorias[0]}
-      />
-
-      <Carousel
-        category={dadosIniciais.categorias[1]}
-      />
-
-      <Carousel
-        category={dadosIniciais.categorias[2]}
-      />      
-
-      <Carousel
-        category={dadosIniciais.categorias[3]}
-      />      
-
-      <Carousel
-        category={dadosIniciais.categorias[4]}
-      />      
-
-      <Carousel
-        category={dadosIniciais.categorias[5]}
-      />      
 
       <Footer />
     </div>
