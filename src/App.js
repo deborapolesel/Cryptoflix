@@ -14,9 +14,9 @@ function App() {
       <BannerMain />
         <div className="Carousel">
           {
-            Playlist.map((category) => (
+            Playlist.map((category, i) => (
               <Carousel
-                key={category.titulo}
+                key={`${category.titulo}-${i}`}
                 category={category}
               />
             ))

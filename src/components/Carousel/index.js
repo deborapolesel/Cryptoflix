@@ -32,7 +32,7 @@ function VideoCardGroup({
           }
 
           return (
-            <li key={video.titulo}>
+            <li key={`${video.titulo}-${index}`}>
               <VideoCard
                 videoTitle={video.titulo}
                 videoURL={video.url}
