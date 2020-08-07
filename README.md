@@ -1,17 +1,11 @@
-# Cryptoflix
+# Reactflix
 
 ## Website: 
 
-Confira o trabalho pelo [site do Projeto](https://cryptoflix.vercel.app/).
+Confira o trabalho pelo [site do Projeto](https://.com).
 
 
 ## Descrição
-
-Primeira página web criada com React sobre criptomoedas. Este projeto foi desenvolvido baseado na plataforma do Netflix.
-
-<img alt="Detalhes do projeto" src="https://github.com/deborapolesel/Cryptoflix/blob/master/src/assets/img/details.png" />
-
-> Projeto construido durante a Imersão React da Alura.
 
 
 ## Como rodar o projeto?
