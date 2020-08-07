@@ -1,6 +1,8 @@
 import React from 'react';
 import VideoIframeResponsive from './components/VideoIframeResponsive';
-import { BannerMainContainer, ContentAreaContainer, WatchButton } from './styles';
+import { BannerMainContainer, ContentAreaContainer } from './styles';
+
+import { Banner } from '../../configs/Banner.json';
 
 function getYouTubeId(youtubeURL) {
   return youtubeURL
@@ -10,12 +12,8 @@ function getYouTubeId(youtubeURL) {
     );
 }
 
-export default function BannerMain({
-  videoTitle,
-  videoDescription,
-  url,
-}) {
-  const youTubeID = getYouTubeId(url);
+export default function BannerMain() {
+  const youTubeID = getYouTubeId(Banner.url);
   const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
 
   return (
@@ -23,11 +21,11 @@ export default function BannerMain({
       <ContentAreaContainer>
         <ContentAreaContainer.Item>
           <ContentAreaContainer.Title>
-            {videoTitle}
+            {Banner.title}
           </ContentAreaContainer.Title>
 
           <ContentAreaContainer.Description>
-            {videoDescription}
+            {Banner.description}
           </ContentAreaContainer.Description>
         </ContentAreaContainer.Item>
 

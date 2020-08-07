@@ -1,17 +1,14 @@
 import React from 'react';
-import { FooterBase } from './styles';
 
 function Footer() {
   return (
-    <FooterBase>
-      <p>
-        Criado durante a
-        {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
-        </a>
-      </p>
-    </FooterBase>
+    <p className="footer">
+      Projeto inspirado em:
+      {' '}
+      <a href="https://github.com/deborapolesel/Cryptoflix">
+        Cryptoflix
+      </a>
+    </p>
   );
 }
 

@@ -4,7 +4,7 @@
 }
 
 :root {
-  --primary: rgb(228, 194, 42);
+  --primary: #18bcee;
   --black: #000000;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
@@ -29,4 +29,21 @@ a {
   display: flex;
   flex-direction: column;
   overflow: hidden;
+}
+
+.footer {
+  background: var(--black);
+  border-top: 2px solid var(--primary);
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  color: var(--white);
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  .footer {
+    margin-bottom: 50px;
+  }
 }

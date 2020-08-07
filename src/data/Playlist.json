@@ -1,0 +1,155 @@
+[
+  {
+    "titulo": "React",
+    "link": "https://www.youtube.com/watch?v=SQsR0KA-oew",
+    "cor": "#18bcee",
+    "link_extra": {
+      "text": "Conheça mais sobre o React",
+      "url": "https://reactjs.org/docs/getting-started.html"
+    },
+    "videos": [
+      {
+        "titulo": "React em 9 minutos",
+        "url": "https://www.youtube.com/watch?v=SQsR0KA-oew"
+      },
+      {
+        "titulo": "Playlist - React na prática",
+        "url": "https://www.youtube.com/watch?v=0k3czp6O-qg&list=PLXe1Uv1JGlTbrdrcZIZOabEBSpeNeVHD7"
+      },
+      {
+        "titulo": "Iniciando no React",
+        "url": "https://www.youtube.com/watch?v=7A4UQGrFU9Q"
+      },
+      {
+        "titulo": "Primeiro projeto em React",
+        "url": "https://www.youtube.com/watch?v=-HdfjrbUHpk&list=PLq-sApY8Quye0gh6ILKd1vU-udVy5_5wr&index=7"
+      },
+      {
+        "titulo": "Iniciando no React",
+        "url": "https://www.youtube.com/watch?v=JMaFQMuaro0"
+      }      
+    ]
+  },
+  {
+    "titulo": "React Native",
+    "cor": "#00C86F",
+    "link_extra": {
+      "text": "Saiba mais sobre esta tecnologia",
+      "url": "https://reactnative.dev/docs/getting-started.html"
+    },
+    "videos": [
+      {
+        "titulo": "Iniciando no React Native",
+        "url": "https://www.youtube.com/watch?v=XcU9GEUZTQA"
+      },
+      {
+        "titulo": "React Native é mesmo nativo?",
+        "url": "http://youtube.com/watch?v=S0T3ocPUotk"
+      },
+      {
+        "titulo": "Qual a diferença entre ReactJS e React Native?",
+        "url": "https://www.youtube.com/watch?v=xj3uQySEhFo"
+      }, 
+      {
+        "titulo": "Playlist - React Native",
+        "url": "https://www.youtube.com/watch?v=DmUUsTC2YkA&list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW"
+      }
+    ]
+  },
+  {
+    "titulo": "Redux",
+    "cor": "#9cd33b",
+    "link_extra": {
+      "text": "Saiba mais sobre este framework",
+      "url": "https://redux.js.org/introduction/getting-started"
+    },
+    "videos": [
+      {
+        "titulo": "Saiba o que é Redux",
+        "url": "https://www.youtube.com/watch?v=kAOzxQp6AKE"
+      },
+      {
+        "titulo": "Desvendando o Redux",
+        "url": "https://www.youtube.com/watch?v=u99tNt3TZf8"
+      },
+      {
+        "titulo": "React Redux Tutorial",
+        "url": "https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK"
+      },
+      {
+        "titulo": "Redux for beginners",
+        "url": "https://www.youtube.com/watch?v=CVpUuw9XSjY"
+      }
+    ]
+  },
+  {
+    "titulo": "RTL / JEST",
+    "cor": "orange",
+    "videos": [
+      {
+        "titulo": "Jest - Como utilizar",
+        "url": "https://www.youtube.com/watch?v=uRTKUjeua3g"
+      },
+      {
+        "titulo": "TDD na prática",
+        "url": "https://www.youtube.com/watch?v=sLx00kXPoTg"
+      },
+      {
+        "titulo": "React TDD in 5 minutes",
+        "url": "https://www.youtube.com/watch?v=-bmdf1oATQo"
+      },
+      {
+        "titulo": "Testando Interfaces com RTL",
+        "url": "https://www.youtube.com/watch?v=sdkgUu5hr6g"
+      },
+      {
+        "titulo": "React unit testing with Jest & React-testing-library",
+        "url": "https://www.youtube.com/watch?v=3e1GHCA3GP0"
+      }
+    ]
+  },
+  {
+    "titulo": "Proptypes",
+    "cor": "red",
+    "videos": [
+      {
+        "titulo": "Proptypes - Aprendendo na prática",
+        "url": "https://www.youtube.com/watch?v=MkPMV4M_aqM"
+      },
+      {
+        "titulo": "Fazendo verificação de tipos",
+        "url": "https://www.youtube.com/watch?v=vqwAw9ByRUw"
+      },
+      {
+        "titulo": "Validação de Props",
+        "url": "https://www.youtube.com/watch?v=XdW-mtszH14"
+      }
+    ]
+  },
+  {
+    "titulo": "More Videos",
+    "cor": "#6b5be2",
+    "videos": [
+      {
+        "titulo": "O que são frameworks",
+        "url": "youtube.com/watch?v=2zqzzTnfa0E"
+      },
+      {
+        "titulo": "O que são Libs?",
+        "url": "https://www.youtube.com/watch?v=HbodGjbJNno"
+      },
+      {
+        "titulo": "React VS Vue VS Angular",
+        "url": "https://www.youtube.com/watch?v=VmmA5SFN2WM"
+      },
+      {
+        "titulo": "Por que React e não vue",
+        "url": "https://www.youtube.com/watch?v=TPdUM1R9lQw"
+      },
+      {
+        "titulo": "Comparação de código - Vue vs React",
+        "url": "https://www.youtube.com/watch?v=xA7Dri2H_pM"
+      }
+    ]
+  }
+]
