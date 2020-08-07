@@ -22,6 +22,10 @@ const Button = styled.button`
   &:focus {
     opacity: .5;
   }
+
+  @media (max-width: 800px) {
+    display: none;
+  }
 `;
 
 export default Button
