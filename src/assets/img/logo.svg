@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="68.47206"
-     inkscape:cy="10.492766"
+     inkscape:zoom="2.8"
+     inkscape:cx="55.58044"
+     inkscape:cy="25.381231"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -42,7 +42,9 @@
      inkscape:window-height="837"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -83,8 +85,8 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccccc" />
       <path
-         d="m 102.34513,150.75777 c 1.10622,-0.0251 1.33087,-0.70297 1.33087,-1.74014 v -1.05833 h -1.10066 v 1.05833 c 0,0.43392 -0.26459,0.6985 -0.64559,0.6985 -0.381,0 -0.64558,-0.26458 -0.64558,-0.6985 v -2.5708 c 0,-0.43392 0.26458,-0.6985 0.64558,-0.6985 0.381,0 0.64559,0.26458 0.64559,0.6985 v 0.86783 h 1.10066 v -0.86783 c 0,-1.03717 -0.70908,-1.75683 -1.75683,-1.75683 -1.04775,0 -1.75683,0.71966 -1.75683,1.75683 v 2.5708 c 0,1.03717 0.35021,1.77221 1.39769,1.74849"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas;-inkscape-font-specification:Bebas;stroke-width:0.26458332;fill:#18bcee;fill-opacity:1"
+         d="m 102.34513,150.75777 c 1.10622,-0.0251 1.33087,-0.70297 1.33087,-1.74014 v -0.90393 h -1.10066 v 0.90393 c 0,0.43392 -0.26459,0.6985 -0.64559,0.6985 -0.381,0 -0.64558,-0.26458 -0.64558,-0.6985 v -2.5708 c 0,-0.43392 0.26458,-0.6985 0.64558,-0.6985 0.381,0 0.64559,0.26458 0.64559,0.6985 v 1.02223 h 1.10066 v -1.02223 c 0,-1.03717 -0.70908,-1.75683 -1.75683,-1.75683 -1.04775,0 -1.75683,0.71966 -1.75683,1.75683 v 2.5708 c 0,1.03717 0.35021,1.77221 1.39769,1.74849"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas;-inkscape-font-specification:Bebas;fill:#18bcee;fill-opacity:1;stroke-width:0.26458332"
          id="path846"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csccssssssccssssc" />
@@ -95,8 +97,8 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccc" />
       <path
-         d="m 108.83588,150.76313 1.12183,0.0354 v -1.71648 h 1.5875 v -1.05833 h -1.5875 v -2.16959 h 2.01083 v -1.05833 h -3.13266 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas;-inkscape-font-specification:Bebas;stroke-width:0.26458332;fill:#18bcee;fill-opacity:1"
+         d="m 108.83588,150.76313 1.12183,0.0354 v -2.31784 h 1.5875 v -1.01163 h -1.5875 v -1.61493 h 2.01083 v -1.05833 h -3.13266 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas;-inkscape-font-specification:Bebas;fill:#18bcee;fill-opacity:1;stroke-width:0.26458332"
          id="path850"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccc" />
