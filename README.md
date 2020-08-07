@@ -15,7 +15,7 @@ Projeto criado para auxiliar estudantes de React a encontrarem e compartilharem 
 
 ## Como adicionar/remover vídeos?
 
-- Abra o arquivo [src/data/Playlist.json] (https://github.com/LizzardMedeiros/Reactflix/blob/master/src/data/Playlist.json)
+- Abra o arquivo [src/data/Playlist.json](https://github.com/LizzardMedeiros/Reactflix/blob/master/src/data/Playlist.json)
 - Acrescente a URL e a descrição do vídeo dentro de uma das categorias
 - Faça um PR
 
